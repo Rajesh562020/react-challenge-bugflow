@@ -39,7 +39,7 @@ src/
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/yourusername/react-login-bugflows.git
+git clone https://github.com/Rajesh562020/react-challenge-bugflow
 cd react-login-bugflows
 ````
 
