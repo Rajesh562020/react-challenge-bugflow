@@ -40,7 +40,7 @@ src/
 
 ```bash
 git clone https://github.com/Rajesh562020/react-challenge-bugflow
-cd react-login-bugflows
+cd react-challenge-bugflow
 ````
 
 2. **Install dependencies**
